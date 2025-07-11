@@ -1,0 +1,12 @@
+
+<svg width="1170" height="2532" viewBox="0 0 1170 2532" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1170" height="2532" fill="#F9FAFB"/>
+  <rect x="0" y="0" width="1170" height="120" fill="#FFFFFF"/>
+  <text x="585" y="60" font-family="-apple-system, system-ui, sans-serif" font-size="36" font-weight="bold" fill="#1F2937" text-anchor="middle">
+    Realtor Insight Engine
+  </text>
+  <rect x="40" y="160" width="1090" height="200" fill="#3B82F6" rx="20"/>
+  <text x="585" y="260" font-family="-apple-system, system-ui, sans-serif" font-size="48" font-weight="600" fill="white" text-anchor="middle">
+    Feedback Entry
+  </text>
+</svg>

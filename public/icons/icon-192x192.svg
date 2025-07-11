@@ -1,0 +1,10 @@
+
+<svg width="192" height="192" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg">
+  <rect width="192" height="192" fill="#3B82F6" rx="38.400000000000006"/>
+  <text x="50%" y="50%" font-family="-apple-system, system-ui, sans-serif" font-size="28.799999999999997" font-weight="bold" fill="white" text-anchor="middle" dominant-baseline="middle">
+    RI
+  </text>
+  <text x="50%" y="65%" font-family="-apple-system, system-ui, sans-serif" font-size="15.36" fill="white" text-anchor="middle" dominant-baseline="middle">
+    Engine
+  </text>
+</svg>
