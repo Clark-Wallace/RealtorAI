@@ -51,8 +51,8 @@ A comprehensive real estate intelligence platform that combines client preferenc
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/realtor-ai.git
-cd realtor-ai
+git clone https://github.com/Clark-Wallace/RealtorAI.git
+cd RealtorAI
 ```
 
 2. Install dependencies:
@@ -351,9 +351,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🆘 Support
 
 - **Documentation**: [docs/](./docs)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/realtor-ai/issues)
+- **Issues**: [GitHub Issues](https://github.com/Clark-Wallace/RealtorAI/issues)
 - **Email**: support@realtorai.com
-- **Wiki**: [Project Wiki](https://github.com/yourusername/realtor-ai/wiki)
+- **Wiki**: [Project Wiki](https://github.com/Clark-Wallace/RealtorAI/wiki)
 
 ## 🙏 Acknowledgments
 

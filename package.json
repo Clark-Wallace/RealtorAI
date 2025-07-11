@@ -4,13 +4,13 @@
   "description": "A comprehensive real estate intelligence platform combining client preference tracking with powerful market analytics",
   "author": "RealtorAI Contributors",
   "license": "MIT",
-  "homepage": "https://github.com/yourusername/realtor-ai#readme",
+  "homepage": "https://github.com/Clark-Wallace/RealtorAI#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/realtor-ai.git"
+    "url": "git+https://github.com/Clark-Wallace/RealtorAI.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/realtor-ai/issues"
+    "url": "https://github.com/Clark-Wallace/RealtorAI/issues"
   },
   "keywords": [
     "real-estate",
